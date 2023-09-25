@@ -1,10 +1,3 @@
-# TheValverde
- 
-### Hello World 👋 It's [Hugo!](https://sakigo9.github.io/MyPortfolio/)
-
-<br/>
-
-
 <a href="https://twitter.com/TheHugoValverde">
 <img align="left" alt="Hugo Valverde | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
