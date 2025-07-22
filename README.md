@@ -13,7 +13,7 @@
 <br />
 
 <br />
-<img align="center" alt="landing" src="https://hugovalverde.com/imgs/landing.jpg" />
+<img align="center" alt="landing" src="https://media.discordapp.net/attachments/1104720120355500132/1104720239234654238/806292DD-B665-4A5E-A137-3635EF43DE01.jpg?ex=68801425&is=687ec2a5&hm=0688976251b39d21c53a3bbd1a47b51536880267eb79d9a133c4dc9c91c478b2&=&format=webp&width=1870&height=864" />
 Hi there, I'm Hugo, a real-time graphics programmer with a passion for creating immersive experiences. My expertise lies in using cutting-edge software like Ventuz, Unreal Engine, and generative AI technologies to bring dynamic visuals to life. I have experience integrating ChatGPT and other AI models into custom software and video games, and I'm deeply involved in R&D projects in the field of real-time graphics. Recently, I've been exploring Virtual Production, Projection Mapping, and their potential to create stunning visuals in unique environments. As I continue to push the boundaries of what's possible, I have also developed a growing interest in web and iOS development. With my diverse skillset and creativity, I'm always striving to innovate and deliver captivating experiences in the world of real-time graphics, AI, and beyond.
 
 
