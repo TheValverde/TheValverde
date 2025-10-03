@@ -47,7 +47,7 @@ I’ve spent the last few years crafting real-time visual systems using tools li
 ---
 
 ## 🌍 Find me around the web
-- 🧠 [Portfolio](https://hugovalverde.com/)
+- 🧠 [Portfolio](https://portfolio.hugovalverde.com/)
 - 📸 [Instagram](https://www.instagram.com/thehugovalverde/)
 - 🎥 [YouTube](https://www.youtube.com/channel/UCp86sevt4raRJB5up5a3nxg)
 - 💼 [LinkedIn](https://www.linkedin.com/in/thehugovalverde/)
