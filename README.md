@@ -45,12 +45,9 @@ More recently, I’ve been experimenting with combining those systems with gener
 
 ## Tools and Languages
 
-Python
-C#
-Unreal Engine
-Ventuz
-DaVinci Resolve
-
----
-
-If you want it to lean even more in a specific direction (more technical, more casual, more “founder-y,” etc.), I can tune the voice further.
+* Python
+* C#
+* Rust
+* Unreal Engine
+* Ventuz
+* DaVinci Resolve
