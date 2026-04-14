@@ -1,69 +1,55 @@
-<a href="https://twitter.com/TheHugoValverde">
-<img align="left" alt="Hugo Valverde | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/thehugovalverde/">
-<img align="left" alt="Hugo Valverde" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/thehugovalverde/">
-<img align="left" alt="Hugo Valverde" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCp86sevt4raRJB5up5a3nxg">
-<img align="left" alt="Hugo Valverde | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<br/><br/>
+# Hi, I’m Hugo
 
-<img align="center" alt="landing" src="https://media.discordapp.net/attachments/1104720120355500132/1104720239234654238/806292DD-B665-4A5E-A137-3635EF43DE01.jpg?ex=68801425&is=687ec2a5&hm=0688976251b39d21c53a3bbd1a47b51536880267eb79d9a133c4dc9c91c478b2&=&format=webp&width=1870&height=864" />
-
-# Hi, I'm Hugo 👋  
-A real-time graphics & AI systems developer building immersive experiences and intelligent automation tools.
+I build real-time graphics systems and work on AI tooling, mostly focused on practical applications and internal tools.
 
 ---
 
-## 🧠 Recent Projects
+## Recent Work
 
-- 🔧 **Built a private, locally hosted LangChain agent** using Qwen3:14B via LM Studio
-- 🧪 Integrated **custom tools using the MCP (Model Context Protocol)** standard
-- 💡 Developed a **custom SpaceTraders MCP server**, enabling autonomous game-state interaction
-- 🖥️ Implemented a **fully local agent GUI** using LangGraph’s Agent UI
-- 🧩 Prototyping secure, privacy-focused AI assistants for internal tools and dev workflows
-
----
-
-## 🎮 Real-Time Graphics & R&D Work
-
-I’ve spent the last few years crafting real-time visual systems using tools like:
-- **Ventuz** & Unreal Engine
-- Esports broadcast systems for Riot Games and immersive installations for Yale & the NHL
-- Generative AI and real-time data visualizations
+* Built a local LangChain-based agent running Qwen3:14B through LM Studio
+* Integrated custom tools using the Model Context Protocol (MCP)
+* Developed a SpaceTraders MCP server for autonomous interaction with the game state
+* Set up a local agent interface using LangGraph’s UI
+* Working on privacy-focused assistants for internal workflows and development use
 
 ---
 
-## 🔭 Current Interests
-- 🧱 Scalable LLM agent architecture
-- ⚙️ Tool-rich agents for internal automation (private/devops/creative)
-- 📱 iOS & Swift development for realtime and generative media
-- 🐉 Game simulations, AI story agents, and world modeling
+## Graphics and R&D
+
+Over the past few years, I’ve worked on real-time visual systems using tools like Ventuz and Unreal Engine.
+
+Projects have included esports broadcast systems for Riot Games, as well as installations for organizations like Yale and the NHL. A lot of that work involved live data, rendering pipelines, and integrating real-time inputs into visual outputs.
+
+More recently, I’ve been experimenting with combining those systems with generative models.
 
 ---
 
-## 🌍 Find me around the web
-- 🧠 [Portfolio](https://portfolio.hugovalverde.com/)
-- 📸 [Instagram](https://www.instagram.com/thehugovalverde/)
-- 🎥 [YouTube](https://www.youtube.com/channel/UCp86sevt4raRJB5up5a3nxg)
-- 💼 [LinkedIn](https://www.linkedin.com/in/thehugovalverde/)
+## Current Focus
+
+* LLM-based agent systems that can actually be used in day-to-day workflows
+* Building tools that run locally and don’t rely on external APIs
+* iOS and Swift development, especially for real-time or generative media
+* Simulation systems, game logic, and agent-driven environments
 
 ---
 
-## 🛠 Languages & Tools
+## Links
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/30313437?s=48&v=4"></code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unreal_engine_logo_icon_144771.png"></code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/davinci_resolve_macos_bigsur_icon_190261.png"></code>
-<code><img height="20" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format"></code>
-<code><img height="20" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png"></code>
+Portfolio: [https://portfolio.hugovalverde.com/](https://portfolio.hugovalverde.com/)
+Instagram: [https://www.instagram.com/thehugovalverde/](https://www.instagram.com/thehugovalverde/)
+YouTube: [https://www.youtube.com/channel/UCp86sevt4raRJB5up5a3nxg](https://www.youtube.com/channel/UCp86sevt4raRJB5up5a3nxg)
+LinkedIn: [https://www.linkedin.com/in/thehugovalverde/](https://www.linkedin.com/in/thehugovalverde/)
 
 ---
 
-![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=TheValverde&show_icons=true&hide_border=true)
+## Tools and Languages
+
+Python
+C#
+Unreal Engine
+Ventuz
+DaVinci Resolve
+
+---
+
+If you want it to lean even more in a specific direction (more technical, more casual, more “founder-y,” etc.), I can tune the voice further.
