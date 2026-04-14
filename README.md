@@ -35,10 +35,10 @@ More recently, I’ve been experimenting with combining those systems with gener
 
 ## Links
 
-Portfolio: [https://portfolio.hugovalverde.com/](https://portfolio.hugovalverde.com/)
-Instagram: [https://www.instagram.com/thehugovalverde/](https://www.instagram.com/thehugovalverde/)
-YouTube: [https://www.youtube.com/channel/UCp86sevt4raRJB5up5a3nxg](https://www.youtube.com/channel/UCp86sevt4raRJB5up5a3nxg)
-LinkedIn: [https://www.linkedin.com/in/thehugovalverde/](https://www.linkedin.com/in/thehugovalverde/)
+* Portfolio: [https://portfolio.hugovalverde.com/](https://portfolio.hugovalverde.com/)
+* Instagram: [https://www.instagram.com/thehugovalverde/](https://www.instagram.com/thehugovalverde/)
+* YouTube: [https://www.youtube.com/channel/UCp86sevt4raRJB5up5a3nxg](https://www.youtube.com/channel/UCp86sevt4raRJB5up5a3nxg)
+* LinkedIn: [https://www.linkedin.com/in/thehugovalverde/](https://www.linkedin.com/in/thehugovalverde/)
 
 ---
 
